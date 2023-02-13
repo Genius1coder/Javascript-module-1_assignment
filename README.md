@@ -35,12 +35,23 @@ Solutions
     ii. Backend development.
     iii. Full stack development.
 
-    Question 6. Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category.
+    Question 6. Differentiate between Statically typed and Dynamically typed
+     programming languages and give examples of languages that fall under each category.
 
-    Answer: The major difference between statically and dynamically typed programming languages is that the statically typed programming language perform type checking at compile-time while the latter performs type checking at runtime. Example of statically typed programming language are: Java, C, C++, Pascal and Scala while examples of dynamically typed language include JavaScript, Ruby, python, PHP, Lisp, and Perl.
+    Answer: The major difference between statically and dynamically typed
+     programming languages is that the statically typed programming language
+      perform type checking at compile-time while the latter performs 
+      type checking at runtime. Example of statically typed programming 
+      language are: Java, C, C++, Pascal and Scala while examples of
+       dynamically typed language include JavaScript, Ruby, 
+       python, PHP, Lisp, and Perl.
 
     Question 7: Differentiate between the JavaScript data types ‘null’ and ‘undefined. 
 
-    Answer:The JavaScript data type null refers to a declared variable that has a value of nothing (that is, it does not contain any value, this represent intentional absence of any object value). The undefined data type on the other hand refers to a declared variable that has not been assigned a value. 
+    Answer:The JavaScript data type null refers to a declared variable
+     that has a value of nothing (that is, it does not contain any value,
+      this represent intentional absence of any object value). 
+      The undefined data type on the other hand refers to a declared variable
+       that has not been assigned a value. 
 
 
