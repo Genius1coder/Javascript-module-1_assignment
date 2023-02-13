@@ -1,6 +1,8 @@
 # Javascript-module-1_assignment
 This repository contains my answers to JavaScript module 1assignment
+
 Solutions
+
     Question 1: What runs JavaScript outside the browser?
 
     Answer: Node.js runs JavaScript outside the browser. Node.js is an open source backend runtime enviroment that execute JavaScript codes outside a web browser.
@@ -40,5 +42,5 @@ Solutions
     Question 7: Differentiate between the JavaScript data types ‘null’ and ‘undefined. 
 
     Answer:The JavaScript data type null refers to a declared variable that has a value of nothing (that is, it does not contain any value, this represent intentional absence of any object value). The undefined data type on the other hand refers to a declared variable that has not been assigned a value. 
-    
+
 
